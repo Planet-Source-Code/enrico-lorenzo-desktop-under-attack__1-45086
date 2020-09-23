@@ -1,0 +1,5 @@
+Desktop Under Attack
+
+Important: If you're gonna change your screen area, restart the project/application to work properly.
+
+Put your mouse over the tank to exit.
